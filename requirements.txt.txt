@@ -1,0 +1,4 @@
+tk
+reportlab
+pillow
+pyinstaller
